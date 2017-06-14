@@ -3,7 +3,7 @@
 Created on Tue Jun  4 16:46:22 2013
 
 @author: wrfuser
-"""
+"""  
  
 def grbgText2nan_TE(table_name): # garbage text to nan
     """
